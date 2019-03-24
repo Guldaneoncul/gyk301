@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ddd301</string>
+    <string name="fotograf_video">Fotograf Video</string>
+    <string name="ses_kayit">Ses Kayıt</string>
+    <string name="haritaya_git">Haritaya Git</string>
+    <string name="web_sayfasına_git">Web Sayfasına git</string>
+    <string name="sms">SMS Gonder</string>
+    <string name="arama_yap">arama yap</string>
+    <string name="fotocek">Fotograf cek</string>
+    <string name="harita_btn">İstanbula git</string>
+</resources>
